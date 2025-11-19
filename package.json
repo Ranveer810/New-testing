@@ -14,6 +14,7 @@
     "@ai-sdk/openai": "^0.0.66",
     "@ai-sdk/groq": "^0.0.3",
     "zod": "^3.22.4",
+    "sonner": "^1.4.0",
     "clsx": "^2.1.0",
     "framer-motion": "^11.0.8",
     "html2canvas": "^1.4.1",

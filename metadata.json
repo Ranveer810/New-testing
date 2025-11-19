@@ -1,4 +1,5 @@
 {
   "name": "Copy of Zenith AI Coder",
-  "description": "An advanced AI coding agent capable of generating and previewing React & Tailwind websites in real-time using Gemini and Zod validation."
+  "description": "An advanced AI coding agent capable of generating and previewing React & Tailwind websites in real-time using Gemini and Zod validation.",
+  "requestFramePermissions": []
 }
